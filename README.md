@@ -1,4 +1,6 @@
-# j_admin_page
+# typescript로 React 시작하기
+
+> 본 리포지토리는 create-react-app 명령어를 사용하지 않고 typescript을 통해 react 환경을 구축하는 과정입니다. `실전 리액트 프로그래밍 개정판` 책을 통해 진행되었습니다.
 
 1. 환경구축
 ```
@@ -34,3 +36,5 @@ declare module '*.png' {
 ```
 - types.ts 파일을 추가해 타입스크립트에 타입 정의를 정의했다.
 
+## 참고문헌
+1. 실전 리액트 프로그래밍 개정판, 이재승
